@@ -62,8 +62,3 @@ buck-out/
 /ios/Pods/
 /ios/Podfile.lock
 ios/Podfile.lock
-
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
